@@ -93,6 +93,10 @@ p {
   left: 160px;
 }
 
+.skills{
+  margin-bottom: 11%;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 150px auto;
