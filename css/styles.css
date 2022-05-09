@@ -33,6 +33,7 @@ h3 {
 
 a {
   color: #8785A2;
+  text-decoration: none;
 }
 
 p {
@@ -134,7 +135,7 @@ p {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -149,4 +150,8 @@ p {
   background-image: -o-linear-gradient(top, #FAE3D9, #FAE3D9);
   background-image: linear-gradient(to bottom, #FAE3D9, #FAE3D9);
   text-decoration: none;
+}
+
+.footer-link:hover{
+  color: black;
 }
